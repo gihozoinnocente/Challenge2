@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "..\\challenge.2"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "ping-coming-soon-page-starter-main"
+	}
+}
